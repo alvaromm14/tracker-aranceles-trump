@@ -1,0 +1,884 @@
+[
+  {
+    "country map": "Indonesia",
+    "country": "Indonesia",
+    "Tariff": "Preliminary deal: 19%",
+    "Status": 1,
+    "iso_a3": "IDN",
+    "id": "360",
+    "Rate": 19
+  },
+  {
+    "country map": "Japón",
+    "country": "Japón",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "JPN",
+    "id": "392",
+    "Rate": 15
+  },
+  {
+    "country map": "Filipinas",
+    "country": "Filipinas",
+    "Tariff": "Preliminary deal: 19%",
+    "Status": 1,
+    "iso_a3": "PHL",
+    "id": "608",
+    "Rate": 19
+  },
+  {
+    "country map": "Corea del Sur",
+    "country": "Corea del Sur",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "",
+    "id": "410",
+    "Rate": 15
+  },
+  {
+    "country map": "Reino Unido",
+    "country": "R. Unido",
+    "Tariff": "Preliminary deal: 10%",
+    "Status": 1,
+    "iso_a3": "GBR",
+    "id": "826",
+    "Rate": 10
+  },
+  {
+    "country map": "Vietnam",
+    "country": "Vietnam",
+    "Tariff": "Preliminary deal: 20%",
+    "Status": 1,
+    "iso_a3": "VNM",
+    "id": "704",
+    "Rate": 20
+  },
+  {
+    "country map": "Austria",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "AUT",
+    "id": "040",
+    "Rate": 15
+  },
+  {
+    "country map": "Bélgica",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "BEL",
+    "id": "056",
+    "Rate": 15
+  },
+  {
+    "country map": "Bulgaria",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "BGR",
+    "id": "100",
+    "Rate": 15
+  },
+  {
+    "country map": "Croacia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "HRV",
+    "id": "191",
+    "Rate": 15
+  },
+  {
+    "country map": "Chipre",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "CYP",
+    "id": "196",
+    "Rate": 15
+  },
+  {
+    "country map": "Chequia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "CZE",
+    "id": "203",
+    "Rate": 15
+  },
+  {
+    "country map": "Dinamarca",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "DNK",
+    "id": "208",
+    "Rate": 15
+  },
+  {
+    "country map": "Estonia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "EST",
+    "id": "233",
+    "Rate": 15
+  },
+  {
+    "country map": "Finlandia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "FIN",
+    "id": "246",
+    "Rate": 15
+  },
+  {
+    "country map": "Francia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "FRA",
+    "id": "250",
+    "Rate": 15
+  },
+  {
+    "country map": "Alemania",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "DEU",
+    "id": "276",
+    "Rate": 15
+  },
+  {
+    "country map": "Grecia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "GRC",
+    "id": "300",
+    "Rate": 15
+  },
+  {
+    "country map": "Hungría",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "HUN",
+    "id": "348",
+    "Rate": 15
+  },
+  {
+    "country map": "Irlanda",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "IRL",
+    "id": "372",
+    "Rate": 15
+  },
+  {
+    "country map": "Italia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "ITA",
+    "id": "380",
+    "Rate": 15
+  },
+  {
+    "country map": "Letonia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "LVA",
+    "id": "428",
+    "Rate": 15
+  },
+  {
+    "country map": "Lituania",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "LTU",
+    "id": "440",
+    "Rate": 15
+  },
+  {
+    "country map": "Luxemburgo",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "LUX",
+    "id": "442",
+    "Rate": 15
+  },
+  {
+    "country map": "Malta",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "MLT",
+    "id": "470",
+    "Rate": 15
+  },
+  {
+    "country map": "Países Bajos",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "NLD",
+    "id": "528",
+    "Rate": 15
+  },
+  {
+    "country map": "Polonia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "POL",
+    "id": "616",
+    "Rate": 15
+  },
+  {
+    "country map": "Portugal",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "PRT",
+    "id": "620",
+    "Rate": 15
+  },
+  {
+    "country map": "Rumanía",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "ROU",
+    "id": "642",
+    "Rate": 15
+  },
+  {
+    "country map": "Eslovaquia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "SVK",
+    "id": "703",
+    "Rate": 15
+  },
+  {
+    "country map": "Eslovenia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "SVN",
+    "id": "705",
+    "Rate": 15
+  },
+  {
+    "country map": "España",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "ESP",
+    "id": "724",
+    "Rate": 15
+  },
+  {
+    "country map": "Suecia",
+    "country": "UE",
+    "Tariff": "Preliminary deal: 15%",
+    "Status": 1,
+    "iso_a3": "SWE",
+    "id": "752",
+    "Rate": 15
+  },
+  {
+    "country map": "China",
+    "country": "China",
+    "Tariff": "In negotiations",
+    "Status": 2,
+    "iso_a3": "CHN",
+    "id": "156",
+    "Rate": ""
+  },
+  {
+    "country map": "México",
+    "country": "México",
+    "Tariff": "In negotiations",
+    "Status": 2,
+    "iso_a3": "MEX",
+    "id": "484",
+    "Rate": ""
+  },
+  {
+    "country map": "Afganistán",
+    "country": "Afganistán",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "AFG",
+    "id": "004",
+    "Rate": 15
+  },
+  {
+    "country map": "Argelia",
+    "country": "Argelia",
+    "Tariff": "Tariff announced July 31: 30%",
+    "Status": 3,
+    "iso_a3": "DZA",
+    "id": "012",
+    "Rate": 30
+  },
+  {
+    "country map": "Angola",
+    "country": "Angola",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "AGO",
+    "id": "024",
+    "Rate": 15
+  },
+  {
+    "country map": "Bangladés",
+    "country": "Bangladés",
+    "Tariff": "Tariff announced July 31: 20%",
+    "Status": 3,
+    "iso_a3": "BGD",
+    "id": "050",
+    "Rate": 20
+  },
+  {
+    "country map": "Bolivia",
+    "country": "Bolivia",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "BOL",
+    "id": "068",
+    "Rate": 15
+  },
+  {
+    "country map": "Bosnia y Herzegovina",
+    "country": "Bosnia y Herzegovina",
+    "Tariff": "Tariff announced July 31: 30%",
+    "Status": 3,
+    "iso_a3": "BIH",
+    "id": "070",
+    "Rate": 30
+  },
+  {
+    "country map": "Botsuana",
+    "country": "Botsuana",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "BWA",
+    "id": "072",
+    "Rate": 15
+  },
+  {
+    "country map": "Brasil",
+    "country": "Brasil",
+    "Tariff": "Tariff announced July 31: 10%",
+    "Status": 3,
+    "iso_a3": "BRA",
+    "id": "076",
+    "Rate": 10
+  },
+  {
+    "country map": "Brunéi",
+    "country": "Brunéi",
+    "Tariff": "Tariff announced July 31: 25%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "096",
+    "Rate": 25
+  },
+  {
+    "country map": "Camboya",
+    "country": "Camboya",
+    "Tariff": "Tariff announced July 31: 19%",
+    "Status": 3,
+    "iso_a3": "KHM",
+    "id": "116",
+    "Rate": 19
+  },
+  {
+    "country map": "Camerún",
+    "country": "Camerún",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "CMR",
+    "id": "120",
+    "Rate": 15
+  },
+  {
+    "country map": "Canadá",
+    "country": "Canadá",
+    "Tariff": "Tariff announced July 31: 35%",
+    "Status": 3,
+    "iso_a3": "CAN",
+    "id": "124",
+    "Rate": 35
+  },
+  {
+    "country map": "Chad",
+    "country": "Chad",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "TCD",
+    "id": "148",
+    "Rate": 15
+  },
+  {
+    "country map": "Costa Rica",
+    "country": "Costa Rica",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "CRI",
+    "id": "188",
+    "Rate": 15
+  },
+  {
+    "country map": "Costa de Marfil",
+    "country": "Costa de Marfil",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "384",
+    "Rate": 15
+  },
+  {
+    "country map": "República Democrática del Congo",
+    "country": "República Democrática del Congo",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "180",
+    "Rate": 15
+  },
+  {
+    "country map": "Ecuador",
+    "country": "Ecuador",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "ECU",
+    "id": "218",
+    "Rate": 15
+  },
+  {
+    "country map": "Guinea Ecuatorial",
+    "country": "Guinea Ecuatorial",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "GNQ",
+    "id": "226",
+    "Rate": 15
+  },
+  {
+    "country map": "Malvinas",
+    "country": "Malvinas",
+    "Tariff": "Tariff announced July 31: 10%",
+    "Status": 3,
+    "iso_a3": "FLK",
+    "id": "238",
+    "Rate": 10
+  },
+  {
+    "country map": "Fiyi",
+    "country": "Fiyi",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "FJI",
+    "id": "242",
+    "Rate": 15
+  },
+  {
+    "country map": "Ghana",
+    "country": "Ghana",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "GHA",
+    "id": "288",
+    "Rate": 15
+  },
+  {
+    "country map": "Guyana",
+    "country": "Guyana",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "GUY",
+    "id": "328",
+    "Rate": 15
+  },
+  {
+    "country map": "Islandia",
+    "country": "Islandia",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "ISL",
+    "id": "352",
+    "Rate": 15
+  },
+  {
+    "country map": "India",
+    "country": "India",
+    "Tariff": "Tariff announced July 31: 25%",
+    "Status": 3,
+    "iso_a3": "IND",
+    "id": "356",
+    "Rate": 25
+  },
+  {
+    "country map": "Irak",
+    "country": "Irak",
+    "Tariff": "Tariff announced July 31: 35%",
+    "Status": 3,
+    "iso_a3": "IRQ",
+    "id": "368",
+    "Rate": 35
+  },
+  {
+    "country map": "Israel",
+    "country": "Israel",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "ISR",
+    "id": "376",
+    "Rate": 15
+  },
+  {
+    "country map": "Jordania",
+    "country": "Jordania",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "JOR",
+    "id": "400",
+    "Rate": 15
+  },
+  {
+    "country map": "Kazajistán",
+    "country": "Kazajistán",
+    "Tariff": "Tariff announced July 31: 25%",
+    "Status": 3,
+    "iso_a3": "KAZ",
+    "id": "398",
+    "Rate": 25
+  },
+  {
+    "country map": "Laos",
+    "country": "Laos",
+    "Tariff": "Tariff announced July 31: 40%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "418",
+    "Rate": 40
+  },
+  {
+    "country map": "Lesoto",
+    "country": "Lesoto",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "LSO",
+    "id": "426",
+    "Rate": 15
+  },
+  {
+    "country map": "Libia",
+    "country": "Libia",
+    "Tariff": "Tariff announced July 31: 30%",
+    "Status": 3,
+    "iso_a3": "LBY",
+    "id": "434",
+    "Rate": 30
+  },
+  {
+    "country map": "Liechtenstein",
+    "country": "Liechtenstein",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "LIE",
+    "id": "438",
+    "Rate": 15
+  },
+  {
+    "country map": "Madagascar",
+    "country": "Madagascar",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "MDG",
+    "id": "450",
+    "Rate": 15
+  },
+  {
+    "country map": "Malaui",
+    "country": "Malaui",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "MWI",
+    "id": "454",
+    "Rate": 15
+  },
+  {
+    "country map": "Malasia",
+    "country": "Malasia",
+    "Tariff": "Tariff announced July 31: 19%",
+    "Status": 3,
+    "iso_a3": "MYS",
+    "id": "458",
+    "Rate": 19
+  },
+  {
+    "country map": "Mauricio",
+    "country": "Mauricio",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "MUS",
+    "id": "480",
+    "Rate": 15
+  },
+  {
+    "country map": "Moldavia",
+    "country": "Moldavia",
+    "Tariff": "Tariff announced July 31: 25%",
+    "Status": 3,
+    "iso_a3": "MDA",
+    "id": "498",
+    "Rate": 25
+  },
+  {
+    "country map": "Mozambique",
+    "country": "Mozambique",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "MOZ",
+    "id": "508",
+    "Rate": 15
+  },
+  {
+    "country map": "Myanmar",
+    "country": "Myanmar",
+    "Tariff": "Tariff announced July 31: 40%",
+    "Status": 3,
+    "iso_a3": "MMR",
+    "id": "104",
+    "Rate": 40
+  },
+  {
+    "country map": "Namibia",
+    "country": "Namibia",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "NAM",
+    "id": "516",
+    "Rate": 15
+  },
+  {
+    "country map": "Nauru",
+    "country": "Nauru",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "NRU",
+    "id": "520",
+    "Rate": 15
+  },
+  {
+    "country map": "Nueva Zelanda",
+    "country": "Nueva Zelanda",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "NZL",
+    "id": "554",
+    "Rate": 15
+  },
+  {
+    "country map": "Nicaragua",
+    "country": "Nicaragua",
+    "Tariff": "Tariff announced July 31: 18%",
+    "Status": 3,
+    "iso_a3": "NIC",
+    "id": "558",
+    "Rate": 18
+  },
+  {
+    "country map": "Nigeria",
+    "country": "Nigeria",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "NGA",
+    "id": "566",
+    "Rate": 15
+  },
+  {
+    "country map": "Macedonia del Norte",
+    "country": "Macedonia del Norte",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "807",
+    "Rate": 15
+  },
+  {
+    "country map": "Noruega",
+    "country": "Noruega",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "NOR",
+    "id": "578",
+    "Rate": 15
+  },
+  {
+    "country map": "Pakistán",
+    "country": "Pakistán",
+    "Tariff": "Tariff announced July 31: 19%",
+    "Status": 3,
+    "iso_a3": "PAK",
+    "id": "586",
+    "Rate": 19
+  },
+  {
+    "country map": "Papúa Nueva Guinea",
+    "country": "Papúa Nueva Guinea",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "PNG",
+    "id": "598",
+    "Rate": 15
+  },
+  {
+    "country map": "Serbia",
+    "country": "Serbia",
+    "Tariff": "Tariff announced July 31: 35%",
+    "Status": 3,
+    "iso_a3": "SRB",
+    "id": "688",
+    "Rate": 35
+  },
+  {
+    "country map": "Sudáfrica",
+    "country": "Sudáfrica",
+    "Tariff": "Tariff announced July 31: 30%",
+    "Status": 3,
+    "iso_a3": "ZAF",
+    "id": "710",
+    "Rate": 30
+  },
+  {
+    "country map": "Sri Lanka",
+    "country": "Sri Lanka",
+    "Tariff": "Tariff announced July 31: 20%",
+    "Status": 3,
+    "iso_a3": "LKA",
+    "id": "144",
+    "Rate": 20
+  },
+  {
+    "country map": "Suiza",
+    "country": "Suiza",
+    "Tariff": "Tariff announced July 31: 39%",
+    "Status": 3,
+    "iso_a3": "CHE",
+    "id": "756",
+    "Rate": 39
+  },
+  {
+    "country map": "Siria",
+    "country": "Siria",
+    "Tariff": "Tariff announced July 31: 41%",
+    "Status": 3,
+    "iso_a3": "",
+    "id": "760",
+    "Rate": 41
+  },
+  {
+    "country map": "Taiwán",
+    "country": "Taiwán",
+    "Tariff": "Tariff announced July 31: 20%",
+    "Status": 3,
+    "iso_a3": "TWN",
+    "id": "158",
+    "Rate": 20
+  },
+  {
+    "country map": "Tailandia",
+    "country": "Tailandia",
+    "Tariff": "Tariff announced July 31: 19%",
+    "Status": 3,
+    "iso_a3": "THA",
+    "id": "764",
+    "Rate": 19
+  },
+  {
+    "country map": "Trinidad y Tobago",
+    "country": "Trinidad y Tobago",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "TTO",
+    "id": "780",
+    "Rate": 15
+  },
+  {
+    "country map": "Túnez",
+    "country": "Túnez",
+    "Tariff": "Tariff announced July 31: 25%",
+    "Status": 3,
+    "iso_a3": "TUN",
+    "id": "788",
+    "Rate": 25
+  },
+  {
+    "country map": "Turquía",
+    "country": "Turquía",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "TUR",
+    "id": "792",
+    "Rate": 15
+  },
+  {
+    "country map": "Uganda",
+    "country": "Uganda",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "UGA",
+    "id": "800",
+    "Rate": 15
+  },
+  {
+    "country map": "Vanuatu",
+    "country": "Vanuatu",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "VUT",
+    "id": "548",
+    "Rate": 15
+  },
+  {
+    "country map": "Venezuela",
+    "country": "Venezuela",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "VEN",
+    "id": "862",
+    "Rate": 15
+  },
+  {
+    "country map": "Zambia",
+    "country": "Zambia",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "ZMB",
+    "id": "894",
+    "Rate": 15
+  },
+  {
+    "country map": "Zimbabue",
+    "country": "Zimbabue",
+    "Tariff": "Tariff announced July 31: 15%",
+    "Status": 3,
+    "iso_a3": "ZWE",
+    "id": "716",
+    "Rate": 15
+  }
+]
