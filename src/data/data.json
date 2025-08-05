@@ -303,7 +303,7 @@
     "Status": 2,
     "iso_a3": "CHN",
     "id": "156",
-    "Rate": ""
+    "Rate": 30
   },
   {
     "country map": "México",
@@ -312,7 +312,7 @@
     "Status": 2,
     "iso_a3": "MEX",
     "id": "484",
-    "Rate": ""
+    "Rate": 25
   },
   {
     "country map": "Afganistán",
@@ -384,7 +384,7 @@
     "Status": 3,
     "iso_a3": "BRA",
     "id": "076",
-    "Rate": 10
+    "Rate": 50
   },
   {
     "country map": "Brunéi",
