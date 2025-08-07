@@ -70,7 +70,7 @@
   let tooltipData;
   let tooltipX = 0;
   let tooltipY = 0;
-  const countriesToLabel = ["124", "156", "484", "040", "826", "392"];
+  const countriesToLabel = ["124", "156", "484", "040", "826", "392", "356", "076"];
 
   window.addEventListener("DOMContentLoaded", (event) => {
     function updateIframeHeight() {
@@ -177,10 +177,10 @@
             y={projection(geoCentroid(country))[1]}
             text-anchor="middle"
             alignment-baseline="middle"
-            font-size="0.9rem"
+            font-size="0.8rem"
             font-weight="500"
             stroke="#fff"
-            stroke-width="2.5"
+            stroke-width="3"
             paint-order="stroke"
             user-select="none"
             pointer-events="none"
